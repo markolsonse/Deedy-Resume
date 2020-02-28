@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/markolsonse/MarkOlsonSE-CV-BasedOn-Deedy/raw/master/cv-cover-img.png" width=640px>
+<img src="https://github.com/markolsonse/MarkOlsonSE-CV-BasedOn-Deedy/raw/master/cv-cover-img.png" width="640px">
 </div>
 Deedy-Resume
 =========================
