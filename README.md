@@ -21,11 +21,7 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 
 ## Preview
 
-### OpenFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
-
-### MacFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
+<img src="https://raw.github.com/markolsonse/MarkOlsonSE-CV-BasedOn-Deedy/master/mark-hendry-olson-cl.png" width="400px"/><img src="https://raw.github.com/markolsonse/MarkOlsonSE-CV-BasedOn-Deedy/master/mark-hendry-olson-cv.png" width="400px"/>
 
 ## Dependencies
 
